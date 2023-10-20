@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <link rel="thcss" href="thcss.css">
+    
+    <!-- if youre reading this hi you little coder nerd-->
+    <title>notdrey online</title>
+</head>
+
+<style>
+    body{
+    font-family: "Courier New", Courier, monospace;}
+</style>
+
+<body style="background-color:rgb(14, 139, 81);" style="text-align:center;">
+
+    <h1 style="text-align:center;"> hey its not audrey</h1>
+    
+    <p style="text-align:center;">welcome to my blog!!</p>
+
+    <p style="text-align:center;">
+    hopefully i have more stuff in the future but <br>
+    for now its cool to just get it set up <br>
+    and running. ill put all my poems on here eventually.
+    </p>
+
+    <p style="text-align:center;" >click this link to go somewhere rad</p>
+    <a href="karias51.wordpress.com"> <p style="text-align:center;"> blegh </p></a>
+</body>
+</html>
