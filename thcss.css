@@ -8,6 +8,7 @@ body {
 .aligngif{
     vertical-align: text-bottom;
 }
+
 .headerend{
     margin-bottom: 100px;
     width: 600px;
@@ -15,11 +16,16 @@ body {
     margin-right: auto;
 }
 
-.post{
-    font-family: 'Courier New', Courier, monospace;
+.postbanner{
+    position: relative;
+    display: inline-block;
 }
 
-.bannerR{
-    float: left;
+.postcontent{
+    font-family: "Courier New", Courier, monospace; color:rgb(243, 151, 151);
+    display: none;
 }
 
+.postbanner:hover .postcontent{
+    display: block;
+}
