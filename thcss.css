@@ -18,7 +18,7 @@ body {
 
 .postbanner{
     position: relative;
-    display: inline-block;
+    margin-bottom: 20px;
 }
 
 .postcontent{
@@ -28,4 +28,10 @@ body {
 
 .postbanner:hover .postcontent{
     display: block;
+}
+
+.gosomewhere{
+    text-decoration: none;
+    color: rgb(180, 180, 180);
+    
 }
