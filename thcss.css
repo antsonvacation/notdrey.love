@@ -28,6 +28,7 @@ body {
     border-style: dotted dashed solid double;
     width: 600px;
     margin: auto;
+    border-width: 4px;
 }
 
 .postbanner{
