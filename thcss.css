@@ -26,6 +26,8 @@ body {
 .linksbackground{
     border:rgb(11, 204, 218);
     border-style: dotted dashed solid double;
+    width: 600px;
+    margin: auto;
 }
 
 .postbanner{
@@ -47,8 +49,6 @@ body {
 .postbanner:hover .postcontent{
     display: block;
 }
-
-.poopy {font-family:Helvetica, Arial, sans-serif}
 
 .gosomewhere{
     text-decoration: none;
