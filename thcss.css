@@ -16,21 +16,47 @@ body {
     margin-right: auto;
 }
 
+.headerendforlinks{
+    margin-bottom: 50px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.linksbackground{
+    border:rgb(11, 204, 218);
+    border-style: dotted dashed solid double;
+}
+
 .postbanner{
-    position: relative;
+    margin: auto;
+    align-items: right;
     margin-bottom: 20px;
+    border: rgb(243, 151, 151);
+    border-style: solid;
+    border-width: 2px;
+    max-width: 70%;
 }
 
 .postcontent{
     font-family: "Courier New", Courier, monospace; color:rgb(243, 151, 151);
     display: none;
+    background-color: beige;
 }
 
 .postbanner:hover .postcontent{
     display: block;
 }
 
+.poopy {font-family:Helvetica, Arial, sans-serif}
+
 .gosomewhere{
     text-decoration: none;
     color: rgb(180, 180, 180);
+}
+
+.friendlink{
+    text-decoration: none;
+    color: wheat;
+    margin-bottom: 100px;
 }
